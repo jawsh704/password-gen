@@ -22,3 +22,7 @@ Once the application is open the user must press the generate password button, t
 Then the user will be brought with a password with all character types the user has selected: 
 
 ![Captures](https://user-images.githubusercontent.com/92951480/142785003-b9f80822-f1d5-47fb-b2dc-980ccee2df6d.PNG)
+
+
+## LINK
+https://jawsh704.github.io/password-gen/
